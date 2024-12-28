@@ -1,6 +1,6 @@
 ---
 title: Photography
-publish: "false"
+publish: "true"
 ---
 Photography has always been a cornerstone of my life, offering me a sense of calm amidst the chaos of university life. In the midst of deadlines, assignments, and the constant hum of a busy schedule, picking up my camera feels like stepping into a sanctuary—a place where I can breathe, create, and truly be present.
 
