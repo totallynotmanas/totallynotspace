@@ -1,6 +1,6 @@
 ---
 title: About me
-publish: "false"
+publish: "true"
 tags:
   - FindOut
 ---
