@@ -1,4 +1,4 @@
 ---
 title: Photography
-publish: "false"
+publish: "true"
 ---
