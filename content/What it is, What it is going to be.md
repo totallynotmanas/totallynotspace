@@ -1,5 +1,5 @@
 ---
-title: what it is, what it is gong to be...
+title: what it is, what it is going to be...
 publish: "true"
 tags:
   - future
