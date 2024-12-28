@@ -4,6 +4,8 @@ publish: "false"
 tags:
   - FindOut
 ---
+Me:
+![[profile.jpg]]
 My Education:
 - Lets be real, most of my knowledge comes of the great **YouTube** and the General **Internet**
 - My Formal Education:
