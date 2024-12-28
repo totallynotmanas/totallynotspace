@@ -1,0 +1,4 @@
+---
+title: Photography
+publish: "false"
+---
