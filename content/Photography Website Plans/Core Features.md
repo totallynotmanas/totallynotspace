@@ -1,7 +1,7 @@
 ---
 title: Core Features of Photography website Project
-draft: true
-publish: "false"
+draft: false
+publish: "true"
 ---
 
 ### **1. Homepage: The First Impression**
